@@ -1,0 +1,7 @@
+Derive([("out","/nix/store/76gxh82dqh6gcppm58ppbsi0h5hahj07
+-demo","","")],[],[],"x86_64-darwin","/bin/sh",["-
+c","echo 'hello world' > $out"],
+[("builder","/nix/store/5arhyyfgnfs01n1cgaf7s82ckzys3vbg-
+bash-4.4-p23/bin/bash"),("name","demo"),
+("out","/nix/store/76gxh82dqh6gcppm58ppbsi0h5hahj07-
+demo"),("system","x86_64-darwin")])
